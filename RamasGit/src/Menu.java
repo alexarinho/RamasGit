@@ -10,6 +10,6 @@ public class Menu {
 	 * Método que pinta un menú en pantalla
 	 */
 	public static void pintaMenu() {
-		System.out.println("------Menu-------");
+		System.out.println("------Menu------");
 	}
 }
